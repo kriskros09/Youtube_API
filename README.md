@@ -1,2 +1,5 @@
-# Youtube_API
-Youtube API
+# Youtube API
+
+> npm install
+> npm start
+```
